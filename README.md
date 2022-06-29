@@ -1,6 +1,8 @@
 # Medical No Shows
 
-##### For this project I wanted to do some sort of prediction test based on at least 10 feature variables on a dataset with over 100,000 entries. I saw quite a few on predicting diabetes or heart diesease, but not as many concerning missing appointments. There were a lot of interesting findings after analyzing the data that you can see from my project as well as the presentation. I have attached a link to the presentation in the README.
+##### For this project I wanted to do some sort of prediction test based on at least 10 feature variables on a dataset with over 100,000 entries. I saw quite a few on predicting diabetes or heart diesease, but not as many concerning missing appointments. There were a lot of interesting findings after analyzing the data that you can see from my project as well as the presentation. Some keys to this project were determining feature variable influence on medical no show predictions  as well as providing multiple statistical methods associated with variable importance and reduction to create an effective and repeatable process for advanced use with future predictions.
+
+I have attached a link to the presentation in the README.
 
 ### The Process
 ##### About The Data
